@@ -1,0 +1,27 @@
+_repo: Style-in-Singing_21400
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haslam, W. E.
+    gutenberg_agent_id: '9899'
+    url: http://www.gutenberg.org/2009/agents/9899
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2007-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21400'
+  lccn: '11027852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Singing'
+- !lcsh 'Voice culture'
+- !lcc 'MT'
+title: Style in Singing
+url: http://www.gutenberg.org/ebooks/21400
