@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9899'
     url: http://www.gutenberg.org/2009/agents/9899
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21400#Style-in-Singing
 gutenberg_bookshelf: Music
 gutenberg_issued: '2007-05-09'
 gutenberg_type: Text
